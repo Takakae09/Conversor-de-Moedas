@@ -1,0 +1,61 @@
+body {
+    background: #121212;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 40px;
+  }
+
+  .container {
+    background: #1e1e1e;
+    padding: 30px;
+    border-radius: 10px;
+    max-width: 400px;
+    margin: auto;
+    box-shadow: 0 0 15px rgba(0, 255, 170, 0.3);
+  }
+
+  input, select, button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+  }
+
+  input {
+    background: #2b2b2b;
+    color: white;
+  }
+
+  select {
+    background: #2b2b2b;
+    color: white;
+  }
+
+  button {
+    background: #00ffaa;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+  }
+
+  .resultado {
+    margin-top: 20px;
+    font-size: 20px;
+    color: #00ffaa;
+}
+
+.container-2{
+    padding: 30px;
+    border-radius: 10px;
+    max-width:400px;
+    margin: auto;
+    box-shadow: 0 0 15px rgba(0, 255, 170, 0.3);
+    margin-top: 30px;
+  color: #fff;
+  width: 100%;
+  margin-top: 10px;
+  font-size: 16px;
+}
