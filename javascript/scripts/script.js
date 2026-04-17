@@ -1,4 +1,5 @@
 
+
 function converter (){
     let n1 =parseInt(document.querySelector("#valor").value)
     let operation = document.querySelector("select").value
@@ -19,5 +20,6 @@ function converter (){
     resultado.innerHTML = calculo
     break
    }
+
      
 }
